@@ -16,3 +16,5 @@ It seems you have found my trove of games, feel free to play them!
 ## [Latte to Go](https://banres.github.io/Hub/Latte-to-go/)
 
 ## [Cosmic Incursion](https://banres.github.io/Hub/cosmic-incursion/)
+
+You can also find me on [Itch](https://banres.itch.io)!
