@@ -11,4 +11,4 @@ A/D - Lean
 Space - Pause  
 Escape - Return to Menu  
 
-## [Download on Itch.io!](https://banres.itch.io/arcane-ascent)
+## [Download on Itch.io!](https://banres.itch.io/trials-64)
