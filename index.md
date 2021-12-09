@@ -14,6 +14,6 @@ Below are three of my projects.
 ## [Arcane Ascent](https://banres.github.io/Hub/Arcane-Ascent/)
 <img src="/Hub/Images/ArcaneIcon.PNG" width="20%">
 
-## [Latte to go](https://banres.github.io/Hub/Latte-to-go/)
+## [Latte to Go](https://banres.github.io/Hub/Latte-to-go/)
 
 ## [Cosmic Incursion](https://banres.github.io/Hub/cosmic-incursion/)
