@@ -5,8 +5,7 @@ filename: index.md
 
 Welcome!
 
-I am a sixth form student from the United Kingdom with an aspiration for coding.
-Below are three of my projects.
+It seems you have found my trove of games, feel free to play them!
 
 ## [Trials 64](https://banres.github.io/Hub/Trials-64/)
 <img src="/Hub/Images/JUbTYl.png" width="20%">
