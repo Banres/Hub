@@ -2,7 +2,7 @@
 permalink: /Latte-to-go/
 ---
 
-<iframe src="https://banres.github.io/Hub/Games/LatteToGo/" align="center" name="Arcane Ascent" style="height:720px;width:480px;border:none;" title="Arcane Ascent"></iframe>
+<iframe src="https://banres.github.io/Hub/Games/LatteToGo/" align="center" name="Arcane Ascent" style="height:480px;width:720px;border:none;" title="Arcane Ascent"></iframe>
 
 ## Controls
 Arrow Keys - Move Dispenser  
