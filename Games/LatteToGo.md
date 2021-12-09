@@ -8,4 +8,4 @@ permalink: /Latte-to-go/
 Arrow Keys - Move Dispenser  
 Space - Fire
 
-## [Download on Itch.io!](https://banres.itch.io/lattetogo)
+## [Download on Itch.io!](https://banres.itch.io/latte-to-go)
