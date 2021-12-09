@@ -12,4 +12,4 @@ E - Interact
 Left Click - Melee Attack
 Right Click - Ranged Attack
 
-[Download on Itch.io!](https://banres.itch.io/arcane-ascent)
+## [Download on Itch.io!](https://banres.itch.io/arcane-ascent)
