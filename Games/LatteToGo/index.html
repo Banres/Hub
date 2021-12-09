@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity WebGL Player | Latte To Go</title>
+  </head>
+  <body style="text-align: center">
+    <canvas id="unity-canvas" style="width: 720px; height: 480px; background: #231F20"></canvas>
+    <script src="Build/WebGl.loader.js"></script>
+    <script>
+      createUnityInstance(document.querySelector("#unity-canvas"), {
+        dataUrl: "Build/WebGl.data",
+        frameworkUrl: "Build/WebGl.framework.js",
+        codeUrl: "Build/WebGl.wasm",
+        streamingAssetsUrl: "StreamingAssets",
+        companyName: "BanresCoding",
+        productName: "Latte To Go",
+        productVersion: "1.0",
+      });
+    </script>
+  </body>
+</html>
