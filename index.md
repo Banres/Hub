@@ -15,4 +15,6 @@ It seems you have found my trove of games, feel free to play them!
 
 ## [Latte to Go](https://banres.github.io/Hub/Latte-to-go/)
 
+## [Killeidoscope](https://banres.github.io/Hub/Killeidoscope/)
+
 You can also find me on [Itch.io](https://banres.itch.io)!
